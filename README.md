@@ -1,4 +1,4 @@
-### Hi there 👋
+ 👋 Meet Endaline, an adept frontend developer with over 1 year of experience specializing in JavaScript, TypeScript, React, and Next.js. I bring a wealth of expertise to the table, mastering the intricacies of frontend technologies to craft intuitive and efficient user interfaces. With a keen eye for detail and a passion for innovation, I consistently delivers high-quality solutions that exceed expectations. My commitment to continuous learning and staying updated with the latest industry trends ensures that every project is executed with cutting-edge proficiency. 
 
 <!--
 **Endaline/Endaline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
