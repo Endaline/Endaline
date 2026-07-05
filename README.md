@@ -1,7 +1,7 @@
 Frontend Engineer with 3+ years shipping production React, Next.js, and React Native applications for healthcare, marketplace, and business-management platforms. Built systems used by 10+ hospitals and 200+
 merchants/artisans, translating business requirements into scalable, maintainable interfaces. Focused on
 performance, clean architecture, and measurable business impact, from cutting page load times to driving user
-adoption.
+adoption. I also work with Node.js, NestJS, MongoDB, and REST APIs to build complete frontend and backend solutions.
 <!--
 **Endaline/Endaline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
